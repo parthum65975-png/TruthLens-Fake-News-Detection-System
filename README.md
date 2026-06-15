@@ -1,2 +1,2 @@
-# TruthLens-Fake-News-Detection-System
--
+# fake_news_detector
+TruthLens - AI Fake News Detector
